@@ -1,0 +1,3 @@
+-keep class com.nfccard.data.** { *; }
+-keepclassmembers class com.nfccard.data.** { *; }
+-keep class com.google.gson.** { *; }
